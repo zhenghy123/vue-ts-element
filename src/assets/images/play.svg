@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>播放</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="生产查询-内容详情" transform="translate(-1115.000000, -299.000000)" fill-rule="nonzero">
+            <g id="播放" transform="translate(1116.000000, 300.000000)">
+                <path d="M28,56 C12.5362891,56 0,43.4637109 0,28 C0,12.5362891 12.5362891,0 28,0 C43.4637109,0 56,12.5362891 56,28 C56,43.4637109 43.4637109,56 28,56 Z" id="路径" stroke="#FFFFFF" fill-opacity="0.65" fill="#000000"></path>
+                <path d="M24.3370213,39.9356711 L37.5299039,30.040644 C38.2614047,29.4922762 38.2614047,28.6040251 37.5299039,28.0556573 L24.3370213,18.1606302 C23.6055205,17.6122623 23.0137112,17.9076299 23.0137112,18.8200723 L23.0137112,39.276229 C23.0137112,40.1909058 23.6066377,40.484039 24.3370213,39.9362297 L24.3370213,39.9356711 Z" id="路径" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
